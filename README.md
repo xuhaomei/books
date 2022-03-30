@@ -1,6 +1,7 @@
 # books
 some good articles
 
+- <a href="https://zhuanlan.zhihu.com/p/74792085" target="_blank">浏览器的渲染过程</a>
 - <a href="https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/" target="_blank">How Browsers Work: Behind the scenes of modern web browsers(浏览器渲染原理)
 - <a href="https://www.cnblogs.com/jiasm/p/7683930.html" target="_blank">script中的defer和async
 - <a href="https://blog.csdn.net/qq_37947438/article/details/114481291" target="_blank">Vue转换vnode到真实dom的过程
