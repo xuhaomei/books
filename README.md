@@ -23,3 +23,4 @@ some good articles
 - <a href="https://auth0.com/blog/javascript-module-systems-showdown/" target="_blank">JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015
 - <a href="https://flaviocopes.com/javascript-event-loop/" target="_blank">The JavaScript Event Loop
 - <a href="https://juejin.cn/post/6844904050543034376#heading-14" target="_blank">JS运行机制</a>
+- <a href="https://mp.weixin.qq.com/s/AsG1uCyJkaIpnFcHbSgvBQ" target="_blank">大文件快速上传</a>
