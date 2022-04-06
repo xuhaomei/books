@@ -1,0 +1,1 @@
+parse->DOMTree&CSSOMTree->RenderTree(每个节点对应一个dom节点,并携带了样式信息,节点成为RenderObject)->RenderLayer(z-index等规则设置RenderLayer)->layout(布局,将样式转换为实际像素描述)->paint(绘制)
