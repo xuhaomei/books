@@ -24,3 +24,7 @@ some good articles
 - <a href="https://flaviocopes.com/javascript-event-loop/" target="_blank">The JavaScript Event Loop
 - <a href="https://juejin.cn/post/6844904050543034376#heading-14" target="_blank">JS运行机制</a>
 - <a href="https://mp.weixin.qq.com/s/AsG1uCyJkaIpnFcHbSgvBQ" target="_blank">大文件快速上传</a>
+- <a href="http://www.ruanyifeng.com/blog/2007/10/ascii_unicode_and_utf-8.html" target="_blank">字符编码笔记：ASCII，Unicode 和 UTF-8</a>
+- <a href="https://www.iana.org/assignments/media-types/media-types.xhtml" target="_blank">Media Types(mine-type查询)</a>
+- <a href="https://blog.csdn.net/qq_26086231/article/details/121057637" target="_blank">常见文件的mine type类型</a>
+- <a href="https://juejin.cn/post/6844904170550460423">HTTP中的一些暗坑</a>
