@@ -28,3 +28,7 @@ some good articles
 - <a href="https://www.iana.org/assignments/media-types/media-types.xhtml" target="_blank">Media Types(mine-type查询)</a>
 - <a href="https://blog.csdn.net/qq_26086231/article/details/121057637" target="_blank">常见文件的mine type类型</a>
 - <a href="https://juejin.cn/post/6844904170550460423">HTTP中的一些暗坑</a>
+- <a href="https://www.zhihu.com/question/61309490/answer/2391044776">从输入url到页面呈现</a>
+- <a href="https://juejin.cn/post/6844903988081475591"> “文本溢出截断省略” 方案
+    <img src="./images/clamp.png">
+  </a>
