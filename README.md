@@ -32,3 +32,6 @@ some good articles
 - <a href="https://juejin.cn/post/6844903988081475591"> “文本溢出截断省略” 方案
     <img src="./images/clamp.png">
   </a>
+- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Containing_block"> css包含盒
+    <img src="./images/containing-block.png">
+  </a>
