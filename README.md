@@ -35,3 +35,4 @@ some good articles
 - <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Containing_block"> css包含盒
     <img src="./images/containing-block.png">
   </a>
+- <a href="https://blog.csdn.net/gao_zhennan/article/details/120717424#IEEE754__10">IEEE754浮点数分析</a>
